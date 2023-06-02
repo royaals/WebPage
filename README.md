@@ -10,6 +10,7 @@ Webpage link- https://royaals.github.io/WebPage/
 
 
 ## Screenshot
+![image](https://github.com/royaals/WebPage/assets/104627535/399334ea-9540-4a0e-9cf3-d6ebeaa98cf8)
 
 
 
