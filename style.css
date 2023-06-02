@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://media.istockphoto.com/vectors/grunge-crepe-paper-textured-vector-tricolour-faded-background-with-vector-id1262259335?k=20&m=1262259335&s=612x612&w=0&h=VHr8IIXBAoS-224fw0tNTwXlKpR2Njyffp3JaxAXICs=");
+    background-attachment: scroll;
+    font-size: large;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container a {
+    margin: 0 10px;
+}
